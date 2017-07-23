@@ -1,0 +1,73 @@
+theme = "casper"
+
+
+languageCode = "en-us"
+title = "RAWWERKS"
+baseurl = "http://rawwerks.com/"
+
+
+
+copyright = " &copy; 2017 Raymond Weitekamp. All rights reserved."
+
+comments = false
+disqusShortname = ""
+
+
+paginate = 5
+pluralizelisttitles = false
+
+
+
+
+
+
+[[menu.main]]
+	identifier = "home"
+	name = "Home"
+	url = "/"
+	weight = -120
+
+[[menu.main]]
+	name = "Science"
+	url = "/science"
+	weight = 99
+
+[[menu.main]]
+	name = "Music"
+	url = "/music"
+	weight = 100
+
+
+
+[[menu.main]]
+	name = "ingMob"
+	pre = "<h4>AKA</h4>"
+	url = "http://ingmob.com"
+	weight = 102
+
+[[menu.main]]
+	name = "polySpectra"
+	url = "https://polyspectra.com"
+	weight = 109
+
+[params]
+	author = "Raymond Weitekamp"
+	authorlocation = "Berkeley, CA"
+	authorwebsite = "http://rawwerks.com"
+	bio = "Scientist, Artist, Entrepreneur"
+	cover = "images/cover_polenord.jpg"
+	description = "Resonant ramblings."
+
+	hideHUGOSupport = false
+	#logo = "images/logo.png"
+	twitterName = "ing_mob"
+	[permalinks]
+	post = "/:slug/"
+
+[sitemap]
+	ChangeFreq = ""
+	Filename = "sitemap.xml"
+	Priority = "-1"
+
+[blackfriday]
+	hrefTargetBlank = true
