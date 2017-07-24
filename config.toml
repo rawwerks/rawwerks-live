@@ -7,7 +7,7 @@ baseurl = "http://165.227.28.97/"
 
 pygmentsStyle = "native"
 
-
+canonifyurls = true
 
 copyright = " &copy; 2017 Raymond Weitekamp. All rights reserved."
 
