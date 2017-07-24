@@ -5,6 +5,8 @@ languageCode = "en-us"
 title = "RAWWERKS"
 baseurl = "http://165.227.28.97"
 
+pygmentsStyle = "native"
+
 
 
 copyright = " &copy; 2017 Raymond Weitekamp. All rights reserved."
