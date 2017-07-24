@@ -9,7 +9,7 @@ pygmentsStyle = "native"
 
 canonifyurls = true
 
-copyright = " &copy; 2017 Raymond Weitekamp. All rights reserved."
+copyright = " &copy; 2017 Raymond Weitekamp. All rights reserved..."
 
 comments = false
 disqusShortname = ""
