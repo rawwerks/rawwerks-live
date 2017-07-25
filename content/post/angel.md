@@ -46,3 +46,7 @@ Whether your priority is high-quality American jobs, energy independence, advanc
 I believe this so strongly that I’m going to put some extra skin in the game. Throwing my life into developing this technology isn’t enough — I want to give you some extra upside. Today, I’m announcing that I will donate 5% of any capital gains I receive through the sale of polySpectra, via the Founder’s Pledge. If we have a successful exit, that will be a tremendous ROI for both of us.
 
 Now I’m ready to fund your idea. What are you waiting for? Apply to Cyclotron Road, a SBIR grant, or your local business plan competition. Tell your congressperson that you want to see even more investments in transformational technology. I can’t wait to be your angel investor, I know the payoff will be huge.
+
+***
+
+Mirror: https://medium.com/@rawwerks/you-are-my-angel-investor-dd5fe07562f5
