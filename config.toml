@@ -39,11 +39,16 @@ pluralizelisttitles = false
 	url = "/music"
 	weight = 100
 
+[[menu.main]]
+	name = "Tools"
+	url = "/tools"
+	weight = 101
+
 
 
 [[menu.main]]
 	name = "ingMob"
-	pre = "<h4>AKA</h4>"
+	pre = "<h6>AKA</h6>"
 	url = "http://ingmob.com"
 	weight = 102
 
