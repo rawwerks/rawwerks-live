@@ -8,7 +8,7 @@ image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
 menu= ""		# set "main" to add this content to the main menu
-author = ""
+author = "Raymond A Weitekamp"
 +++
 
 It is hard enough running a ‘hard tech’ startup. Hardware is one thing, but companies bringing physical science innovations to the world have it toughest of all. Mother nature can be a very cruel compiler.
