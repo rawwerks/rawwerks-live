@@ -13,7 +13,6 @@ author = "Raymond A Weitekamp"
 
 ---
 
-
 Our everyday sense of color is based on the absorption of light. If our shirt appears red, a dye or pigment is absorbing all of the colors except for red. By contrast, structural color is based on reflection, not absorption. Structural color is an important consequence of the fact that light is a wave. We can define the color either through the wavelength — the physical distance between the repeating crests, or the period — the amount of time for the wave to repeat. The wavelength (length) and period (time) are connected by the speed of light (length/time). Because of the periodic nature of light waves, the microscopic geometry of a material is intimately connected to its optical properties. For visible wavelengths of light, materials need to have periodic micro- or nano-scale features to exhibit structural color. Although these assemblies are too small to see with the naked eye, their appearance is an optical signature of their shape.
 
 *![Structural Color in Nature](/media/structural_color.jpeg)
