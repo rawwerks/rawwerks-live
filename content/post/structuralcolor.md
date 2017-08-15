@@ -1,7 +1,7 @@
 +++
 date = "2016-05-20"
 draft = false
-title = "What is structural color?"
+title = "What is Structural Color?"
 slug = "structural-color"
 tags = ["photonics","whatis","science"]
 image = ""
