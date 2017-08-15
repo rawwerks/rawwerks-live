@@ -8,7 +8,7 @@ image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
 menu= ""		# set "main" to add this content to the main menu
-author = ""
+author = "Raymond A Weitekamp"
 +++
 
 Today’s buzz around 3D printing promises a future of mass individualization, a *market-of-one* paradigm. The ability to make individually customized parts is a unique opportunity for additive manufacturing with 3D printers. On the opposite end of the spectrum, high-throughput manufacturing technologies such as injection molding offer the economies of scale for producing very large volumes of identical parts. But where is the cross-over point? Assuming we can make the same quality parts with either approach, there must be a lot size between one and many where the costs are equal. In our search for that point, we can start to explore opportunities where additive manufacturing is competitive with the existing paradigm (and where it could be competitive with the right materials).
