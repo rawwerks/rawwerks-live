@@ -40,3 +40,9 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 
 * [Polymer Physics - Rubinstein & Colby](https://www.amazon.com/Polymer-Physics-Chemistry-M-Rubinstein/dp/019852059X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1502325439&sr=1-1&keywords=rubinstein+colby&linkCode=ll1&tag=rawwerks09-20&linkId=ef01d180d95edef74f401aa7516cf7b7)
+
+## Management Books
+
+* [Radical Candor - Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity-ebook/dp/B01KTIEFEE/ref=as_li_ss_tl?_encoding=UTF8&qid=1503781756&sr=8-1&linkCode=ll1&tag=rawwerks09-20&linkId=7e7c0ec5d57a141c1a6927cfe9004b68)
+
+* [The Management Myth - Matthew Stewart](https://www.amazon.com/Management-Myth-Debunking-Business-Philosophy-ebook/dp/B002PQ7B72/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503781927&sr=1-1&keywords=management+myth&linkCode=ll1&tag=rawwerks09-20&linkId=1c635160674ac0e5432d0307cb5d603c)
