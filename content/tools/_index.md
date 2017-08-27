@@ -25,7 +25,21 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 
 
-* [Gokhale Method 'StretchSit' Back Cushion](https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=509a195317683d5dd44ebc970e67d565) for driving <a href="https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li1&tag=rawwerks09-20&linkId=511063cfbab725277fa86b44ea33792f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXSGF8O&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rawwerks09-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=rawwerks09-20&l=li1&o=1&a=B01LXSGF8O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+* [Gokhale Method 'StretchSit' Back Cushion](https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=509a195317683d5dd44ebc970e67d565) for driving <a href="https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li1&tag=rawwerks09-20&linkId=511063cfbab725277fa86b44ea33792f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXSGF8O&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rawwerks09-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=rawwerks09-20&l=li1&o=1&a=B01LXSGF8O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Music Gear
+
+* [Earasers Hi-Fi Earplugs](https://www.amazon.com/dp/B00E2D9HAA/ref=as_li_ss_tl?_encoding=UTF8&th=1&linkCode=ll1&tag=rawwerks09-20&linkId=0452fcf266633456d75e4863858e24aa) - Saving your hearing is the hip thing to do. These are nearly invisible to others and do not 'color' the sound much. I wear them religiously at shows, movies, and on BART.
+
+* [Beyerdynamic DT 770 Pro Studio Headphones](https://www.amazon.com/gp/product/B0016MNAAI/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=1703926c3210c8301b2445044c47aa2f) - A clear winner, recommended to me by the amazing 'lines' community: (http://llllllll.co)
+
+## Management Books
+
+* [Radical Candor - Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity-ebook/dp/B01KTIEFEE/ref=as_li_ss_tl?_encoding=UTF8&qid=1503781756&sr=8-1&linkCode=ll1&tag=rawwerks09-20&linkId=7e7c0ec5d57a141c1a6927cfe9004b68) - A useful and refreshing commentary on workplace feedback.
+
+* [The Management Myth - Matthew Stewart](https://www.amazon.com/Management-Myth-Debunking-Business-Philosophy-ebook/dp/B002PQ7B72/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503781927&sr=1-1&keywords=management+myth&linkCode=ll1&tag=rawwerks09-20&linkId=1c635160674ac0e5432d0307cb5d603c) - A thought-provoking, hilarious and at times infuriating commentary on the field of management, written by an ex-managment consultant turned philosopher.
+
+* [Rework - Jason Fried & David Heinemeier Hansson](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503786773&sr=1-1&keywords=rework&linkCode=ll1&tag=rawwerks09-20&linkId=aa26714ef7b1c567328d1559f747d27c) - A no nonesense, question everything approach to running a business.
 
 ## Physical Science Books
 * [Why You Hear What You Hear - Eric Heller](https://www.amazon.com/gp/product/0691148597/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=50d57baf55a4667b0add727772c7ef7d) - This is a really fun way to learn wave physics. This is one of my favorite physical science texts of all time.
@@ -41,10 +55,4 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 * [Polymer Physics - Rubinstein & Colby](https://www.amazon.com/Polymer-Physics-Chemistry-M-Rubinstein/dp/019852059X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1502325439&sr=1-1&keywords=rubinstein+colby&linkCode=ll1&tag=rawwerks09-20&linkId=ef01d180d95edef74f401aa7516cf7b7)
 
-## Management Books
 
-* [Radical Candor - Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity-ebook/dp/B01KTIEFEE/ref=as_li_ss_tl?_encoding=UTF8&qid=1503781756&sr=8-1&linkCode=ll1&tag=rawwerks09-20&linkId=7e7c0ec5d57a141c1a6927cfe9004b68) - A useful and refreshing commentary on workplace feedback.
-
-* [The Management Myth - Matthew Stewart](https://www.amazon.com/Management-Myth-Debunking-Business-Philosophy-ebook/dp/B002PQ7B72/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503781927&sr=1-1&keywords=management+myth&linkCode=ll1&tag=rawwerks09-20&linkId=1c635160674ac0e5432d0307cb5d603c) - A thought-provoking, hilarious and at times infuriating commentary on the field of management, written by an ex-managment consultant turned philosopher.
-
-* [Rework - Jason Fried & David Heinemeier Hansson](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503786773&sr=1-1&keywords=rework&linkCode=ll1&tag=rawwerks09-20&linkId=aa26714ef7b1c567328d1559f747d27c) - A no nonesense, question everything approach to running a business.
