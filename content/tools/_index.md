@@ -31,7 +31,9 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 * [Earasers Hi-Fi Earplugs](https://www.amazon.com/dp/B00E2D9HAA/ref=as_li_ss_tl?_encoding=UTF8&th=1&linkCode=ll1&tag=rawwerks09-20&linkId=0452fcf266633456d75e4863858e24aa) - Saving your hearing is the hip thing to do. These are nearly invisible to others and do not 'color' the sound much. I wear them religiously at shows, movies, and on BART.
 
-* [Beyerdynamic DT 770 Pro Studio Headphones](https://www.amazon.com/gp/product/B0016MNAAI/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=1703926c3210c8301b2445044c47aa2f) - A clear winner, recommended to me by the amazing 'lines' community: (http://llllllll.co)
+* [Beyerdynamic DT 770 Pro Studio Headphones](https://www.amazon.com/gp/product/B0016MNAAI/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=1703926c3210c8301b2445044c47aa2f) - A clear winner, recommended to me by the amazing 'lines' community: http://llllllll.co
+
+* [monome grid](https://monome.org/grid/) - The musical instrument I have dreamt the most about in the last decade. 
 
 ## Management Books
 
