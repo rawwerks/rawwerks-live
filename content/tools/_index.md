@@ -56,3 +56,7 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 
 * [Polymer Physics - Rubinstein & Colby](https://www.amazon.com/Polymer-Physics-Chemistry-M-Rubinstein/dp/019852059X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1502325439&sr=1-1&keywords=rubinstein+colby&linkCode=ll1&tag=rawwerks09-20&linkId=ef01d180d95edef74f401aa7516cf7b7)
+
+***
+
+*RAWWERKS is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com*
