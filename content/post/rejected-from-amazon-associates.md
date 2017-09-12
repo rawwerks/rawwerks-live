@@ -3,7 +3,7 @@ date = "2017-08-16"
 draft = false
 title = "Rejected From Amazon Associates"
 slug = "rejected-amazon"
-tags = ["rejected"]
+tags = ["rejected","accepted"]
 image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
@@ -51,5 +51,7 @@ I filled out the profile:
 I agreed to the terms and conditions. I said a prayer, hoping that it would automatically give me back the prior affiliate link so I don't need to redo my tools page...and I'm back. Unfortunately, the Store ID and Tracking ID are now different from when I first applied, so I will have to redo all of my links on my [tools](/tools) page. To be honest, this makes me kind of hesitant to add items to the tools page, since the thought of re-inserting new links for the nth time isn't particularly appealing. (But hey...I'm in this experiment for the long haul.) Because I used Amazon's link shortener, I can't simply find & replace the old tag string with the new. So instead I'm following all of the links manually and using the SiteStrip to quickly create new links (full links this time in case I get rejected again).
 
 Let the second stage of the experiment begin! You may have noticed in the instructions that my application will be reviewed shortly after I make my first referral. This means that the only way you can accelerate this experiment is by heading over to [tools](/tools) and buying something. *To be continued...*
+
+*...Huzzah I was accepted!* Thankfully this experiment in perseverance was relatively straightforward. It only took about a week and a half, but we can now officially say that the myth of needing 15 posts to be accepted as an Amazon Associate is: busted. I also don't have any more excuses for not adding posts to the site. Back to the lab again...
 
 
