@@ -35,13 +35,15 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 * [monome grid](https://monome.org/grid/) - The musical instrument I have dreamt the most about in the last decade. 
 
-## Management Books
+## Management
 
 * [Radical Candor - Kim Scott](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity-ebook/dp/B01KTIEFEE/ref=as_li_ss_tl?_encoding=UTF8&qid=1503781756&sr=8-1&linkCode=ll1&tag=rawwerks09-20&linkId=7e7c0ec5d57a141c1a6927cfe9004b68) - A useful and refreshing commentary on workplace feedback.
 
 * [The Management Myth - Matthew Stewart](https://www.amazon.com/Management-Myth-Debunking-Business-Philosophy-ebook/dp/B002PQ7B72/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503781927&sr=1-1&keywords=management+myth&linkCode=ll1&tag=rawwerks09-20&linkId=1c635160674ac0e5432d0307cb5d603c) - A thought-provoking, hilarious and at times infuriating commentary on the field of management, written by an ex-managment consultant turned philosopher.
 
 * [Rework - Jason Fried & David Heinemeier Hansson](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1503786773&sr=1-1&keywords=rework&linkCode=ll1&tag=rawwerks09-20&linkId=aa26714ef7b1c567328d1559f747d27c) - A no nonesense, question everything approach to running a business.
+
+* [Basecamp](https://3.basecamp.com/r/f9hv3) - A really amazing project management tool (from the authors above). I can't recommend this software more highly.
 
 ## Physical Science Books
 * [Why You Hear What You Hear - Eric Heller](https://www.amazon.com/gp/product/0691148597/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=50d57baf55a4667b0add727772c7ef7d) - This is a really fun way to learn wave physics. This is one of my favorite physical science texts of all time.
