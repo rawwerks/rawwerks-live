@@ -3,7 +3,7 @@ date = "2016-01-16"
 draft = false
 title = "Teaching Disabilities"
 slug = "graduate-school-app-advice"
-tags = ["science","PhD"]
+tags = ["science","PhD","out-teach"]
 image = ""
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
@@ -11,7 +11,7 @@ menu= ""		# set "main" to add this content to the main menu
 author = "Raymond A Weitekamp"
 +++
 
-I really enjoyed this recent [interview of Eric Weinstein] (http://fourhourworkweek.com/2016/01/13/eric-weinstein/) on The Tim Ferriss Show Podcast. One of the most powerful moments for me was when Eric says, "We don't talk about teaching disabilities, we talk about learning disabilities." (1:08:41) Eric continues:
+I really enjoyed this recent [interview of Eric Weinstein](http://fourhourworkweek.com/2016/01/13/eric-weinstein/) on The Tim Ferriss Show Podcast. One of the most powerful moments for me was when Eric says, "We don't talk about teaching disabilities, we talk about learning disabilities." (1:08:41) Eric continues:
 
 > A lot of the kids that I want are kids that have been labelled learning disabled but they are actually superlearners, they're like learners on steroids who have some deficits to pay for their superpower. When teachers can't deal with this, we label those kids learning disabled to cover up from the fact that the economics of teaching require that one central actor, the teacher, be able to lead a room of twenty or more people in lock step. that's not a good model.
 
