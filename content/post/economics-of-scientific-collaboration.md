@@ -16,6 +16,7 @@ I just finished reading Michael Nielsen's book, "[Reinventing Discovery][1]", wh
 One real-world example Nielsen cites as an implementation of these ideas is [Innocentive][3], which is a platform for issuing rewards for solving scientific challenges. In the time since Nielsen wrote that essay, examples of new business models for soliciting "expert attention" have cropped up. The example that immediately comes to mind is [Fluence][4], where creatives can pay media experts for feedback and exposure. Could a structure like Fluence work in science? Perhaps there are other examples in technical fields I'm unaware of. How do these structures change the way research is done? Does it help or hurt scientists?
 
 I'll echo Nielsen's final question of the essay:
+
 > Might scientific problems now regarded as out of reach become accessible with more effective ways of structuring scientific attention?
 
 
