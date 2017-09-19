@@ -1,7 +1,7 @@
 +++
 date = "2017-09-18"
 draft = false
-title = "Failed: materialsGIRL"
+title = "RIP materialsGIRL"
 slug = "materials-girl"
 tags = ["science","open source","fail","matGIRL"]
 image = "/media/materialsgirl-header.png"
