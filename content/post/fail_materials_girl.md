@@ -23,7 +23,7 @@ After about ten months of trying to make things click, I ultimately decided to t
 
 1) **Building a community is hard**
 
-With the exponentially-increasing number of competing demands for our attention in this hyper-connected world, building a community is hard. Hosting a community has never been easier - just 'one click' on Digital Ocean to a new Discourse image - but the corollary is that now everyone is doing it. In the same way that you don't need a record label to *make* an album these days, but having a record label really helps if you want anyone to *listen* to the album - content is easy and community is hard.
+With the exponentially-increasing number of competing demands for our attention in this hyper-connected world, building a community is hard. Hosting a community has never been easier - just 'one click' on [Digital Ocean](https://m.do.co/c/30da383c482b) to a new Discourse image - but the corollary is that now everyone is doing it. In the same way that you don't need a record label to *make* an album these days, but having a record label really helps if you want anyone to *listen* to the album - content is easy and community is hard.
 
 If you're thinking about getting started, I would encourage you to check out [Jeff Atwood's advice on building a Discourse community](https://blog.discourse.org/2014/08/building-a-discourse-community/). There are also a few questions I think you should ask yourself before you start, and periodically throughout the first year or so:
 
