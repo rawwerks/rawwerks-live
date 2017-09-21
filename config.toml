@@ -15,6 +15,8 @@ comments = false
 disqusShortname = ""
 
 
+
+
 paginate = 5
 pluralizelisttitles = false
 codePenUser = "rawwerks"
@@ -61,7 +63,8 @@ codepenuser = "rawwerks"
 	authorlocation = "Berkeley, CA"
 	authorwebsite = "http://rawwerks.com"
 	bio = "Scientist, Artist, Entrepreneur"
-	cover = "images/cover_polenord.jpg"
+	
+	cover = "/media/rainbow_cover_small.png"
 	description = "Resonant ramblings."
 
 	hideHUGOSupport = false
