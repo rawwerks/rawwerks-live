@@ -37,7 +37,7 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 * [monome grid](https://monome.org/grid/) - The musical instrument I have dreamt the most about in the last decade. 
 
-* [Rhythm Necklace](https://itunes.apple.com/us/app/rhythm-necklace-geometric-sequencer/id954669874?mt=8) - This is a really unique sequencer, which got me thinking a lot more about rhythm in geometric terms. It has also enabled me to play around with polyrhythm despite my lack of any form of percussive skills.
+* [Rhythm Necklace](https://itunes.apple.com/us/app/rhythm-necklace-geometric-sequencer/id954669874?mt=8&at=1001lGAJ) - This is a really unique sequencer, which got me thinking a lot more about rhythm in geometric terms. It has also enabled me to play around with polyrhythm despite my lack of any form of percussive skills.
 
 ## Health
 
