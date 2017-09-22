@@ -27,13 +27,23 @@ I've been obsessed with building and buying tools my entire life. My definition 
 
 * [Gokhale Method 'StretchSit' Back Cushion](https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=509a195317683d5dd44ebc970e67d565) for driving <a href="https://www.amazon.com/gp/product/B01LXSGF8O/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li1&tag=rawwerks09-20&linkId=511063cfbab725277fa86b44ea33792f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXSGF8O&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rawwerks09-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=rawwerks09-20&l=li1&o=1&a=B01LXSGF8O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## Music Gear
+* [Deskbound: Standing Up to a Sitting World - Kelly Starrett](https://www.amazon.com/Deskbound-Standing-Up-Sitting-World/dp/1628600586/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=1628600586&pd_rd_r=FJY4Z1TPBR345158CPQM&pd_rd_w=QawlP&pd_rd_wg=KVFDr&psc=1&refRID=FJY4Z1TPBR345158CPQM&linkCode=ll1&tag=rawwerks09-20&linkId=174385fa74c680eb607cbce5fca1a3f3) - Okay so I will admit that I still do sit often, but I have a standing desk at both work and home now. I had tried and failed with standing desks twice before discovering this book, mostly because after a few days I would usually decide my back felt worse and quit. I will give full credit to Kelly for my current ability to work an entire day at the standing desk (which sadly often means ~12 hours (don't do that)). What I like most about this book is Kelly's rejection of much of the 'nit-picky' ergonomics advice (wrist angle should be less than x and greater than y). Instead the focus is on the principles of alignment and movement. Because of this book, I also wear [Skins](https://www.amazon.com/gp/product/B00NXSHLSK/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=8703d129041175e7b6eb08f1be7a9a18) when driving long distances or flying, where sitting is unavoidable. 
+
+## Music & Audio
 
 * [Earasers Hi-Fi Earplugs](https://www.amazon.com/dp/B00E2D9HAA/ref=as_li_ss_tl?_encoding=UTF8&th=1&linkCode=ll1&tag=rawwerks09-20&linkId=0452fcf266633456d75e4863858e24aa) - Saving your hearing is the hip thing to do. These are nearly invisible to others and do not 'color' the sound much. I wear them religiously at shows, movies, and on BART.
 
 * [Beyerdynamic DT 770 Pro Studio Headphones](https://www.amazon.com/gp/product/B0016MNAAI/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=rawwerks09-20&linkId=1703926c3210c8301b2445044c47aa2f) - A clear winner, recommended to me by the amazing 'lines' community: http://llllllll.co
 
 * [monome grid](https://monome.org/grid/) - The musical instrument I have dreamt the most about in the last decade. 
+
+* [Rhythm Necklace](https://itunes.apple.com/us/app/rhythm-necklace-geometric-sequencer/id954669874?mt=8) - This is a really unique sequencer, which got me thinking a lot more about rhythm in geometric terms. It has also enabled me to play around with polyrhythm despite my lack of any form of percussive skills.
+
+## Health
+
+* [Headspace](https://itunes.apple.com/us/app/headspace-guided-meditation/id493145008?mt=8) - I found the host's voice funny for the first few days, which made it hard to concentrate. Once I got over that, I got hooked. This app is a great way to learn / track meditation.
+
+* [Becoming a Supple Leopard - Kelly Starrett](https://www.amazon.com/Becoming-Supple-Leopard-2nd-Performance/dp/1628600837/ref=as_li_ss_tl?ie=UTF8&qid=1506051437&sr=8-1&keywords=supple+leopard&linkCode=ll1&tag=rawwerks09-20&linkId=2d6b902e4df14771dcc0eb4b191faef0) - The mobility bible, this book has helped me so much. I do a few exercises from this book every day, and regularly consult the master when something feels out of balance. 
 
 ## Management
 
