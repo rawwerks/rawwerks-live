@@ -2,7 +2,7 @@
 date = "2016-01-16"
 draft = false
 title = "Teaching Disabilities"
-slug = "graduate-school-app-advice"
+slug = "teaching-disabilities"
 tags = ["science","PhD","out-teach","matGIRL"]
 image = ""
 comments = true	# set false to hide Disqus
